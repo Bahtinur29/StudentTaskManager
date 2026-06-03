@@ -1,0 +1,12 @@
+body.dark{
+    background:#1e293b;
+    color:white;
+}
+
+body.dark .card,
+body.dark .task-form,
+body.dark .controls,
+body.dark .backup,
+body.dark header{
+    background:#334155;
+}
